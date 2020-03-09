@@ -22,7 +22,7 @@ $ node index.js
 
 
 
-* Bot Comment Target's Post
+* Bot Like target's Post
 
 * Delete All Media
 
