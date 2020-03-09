@@ -9,7 +9,7 @@ I'm the author of this Tool , I'm CipherX
 
 ```
 $ git clone https://github.com/TheCipherX/cipher-ig-tools.git$ cd instagram-tools
-$ node index.js
+$ node cipher.js
 ```
 
 ----
