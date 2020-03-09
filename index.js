@@ -62,7 +62,7 @@ const main = async () => {
 }
 
 console.log(chalk`
-  {bold.cyan
+  {bold.green
   ╦┌┐┌┌─┐┌┬┐┌─┐┌─┐┬─┐┌─┐┌┬┐
   ║│││└─┐ │ ├─┤│ ┬├┬┘├─┤│││
   ╩┘└┘└─┘ ┴ ┴ ┴└─┘┴└─┴ ┴┴ ┴
