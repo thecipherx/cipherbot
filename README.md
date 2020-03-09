@@ -32,6 +32,6 @@ $ node index.js
 
 * CODE BY KCK MEMBER CipherX (citykhalith@gmail.com)
 * FIXING & TESTING BY SYNTAX (@solo_comrade_)
-* |i
-* KCK TEAM REBORN | Zerobyte.id | citykhalith@gmail.com
-*
+
+* KCK TEAM Member| citykhalith@gmail.com
+
