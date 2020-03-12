@@ -31,7 +31,8 @@ const questionTools = [
         "[1]  Bot Like Timeline",
         "[2]  Bot Like Post by Hastag",
         "[3]  Bot Like Target's Post",
-        "[4]  Delete All Media",
+        "[4]  Delete All Media",
+
         ""
       ] 
   }
@@ -44,19 +45,19 @@ const main = async () => {
     toolChoise = toolChoise.Tools;
     switch(toolChoise){
       case "[1]  Bot Like Timeline":
-        await require("./src/botLikeTimeline.js");
+        await require("./src/.botLikeTimeline.js");
         break;
 
       case "[2]  Bot Like Post by Hastag":
-        await require("./src/FFTHashtag.js");
+        await require("./src/.Ltag.js");
         break;
 
       case "[3] Bot Like Target's Post":
-        await require("./src/bomLike.js");
+        await require("./src/.botLike.js");
         break;
 
       case "[4] Delete All Media":
-        await require("./src/deleteAllMedia.js");
+        await require("./src/.deleteAllMedia.js");
         break;
       default:
         console.log('\nERROR:\n[?] Aw, Snap! \n[!] Something went wrong while displaying this program!\n[!] Please try again!');
