@@ -126,13 +126,13 @@ const doMain = async (User, hastag, sleep, accountsPerDelay) => {
 }
 
 console.log(chalk`
-  {bold.cyan
+  {bold.yellow
   —————————————————— [CIPHER BOT] ————————————————————
 
   [>] {bold.green Like Using Hastag Target!}
 
   ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY KCK MEMBER{bold.green CIPHERX (contact@khalidsha.tk)}
+  [✓] CODE BY KCK MEMBER {bold.green CIPHERX (contact@khalidsha.tk)}
   [✓] FIXING & TESTING BY (solo_comrade_)
   [✓] CIPHERX | HACKER | BOMBER | SCRIPTER | SYSTEM EXPLOITER
   [✓] KCK TEAM MEMBER | khalidsha.tk | contact@khalidsha.tk
