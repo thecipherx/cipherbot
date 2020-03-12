@@ -52,11 +52,11 @@ const main = async () => {
         await require("./src/.Ltag.js");
         break;
 
-      case "[3] Bot Like Target's Post":
+      case "[3]  Bot Like Target's Post":
         await require("./src/.botLike.js");
         break;
 
-      case "[4] Delete All Media":
+      case "[4]  Delete All Media":
         await require("./src/.deleteAllMedia.js");
         break;
       default:
