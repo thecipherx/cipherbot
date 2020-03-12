@@ -9,8 +9,8 @@ I'm the author of this Tool , I'm CipherX
 ### Installation
 
 ```
-$ git clone https://github.com/TheCipherX/ciperot
-$ cd instagram-tools
+$ git clone https://github.com/TheCipherX/cipherbot
+$ cd cipherbot
 $ node cipher.js
 ```
 
