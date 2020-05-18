@@ -6,12 +6,13 @@ The ULTIMATE TOOL FOR INSTAGRAM. "CIPHER BOT"
 I'm the author of this Tool , I'm CipherX
 ----
 
-### Installation
+Installation
 
 ```
+$ apt install nodejs
 $ git clone https://github.com/TheCipherX/cipherbot
 $ cd cipherbot
-$ node cipher.js
+$ node index.js
 ```
 
 ----
