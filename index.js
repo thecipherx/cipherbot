@@ -31,7 +31,6 @@ const questionTools = [
         "[1]  Bot Like Timeline",
         "[2]  Bot Like Post by Hastag",
         "[3]  Bot Like Target's Post",
-        "[4]  Delete All Media",
 
         ""
       ] 
@@ -54,10 +53,6 @@ const main = async () => {
 
       case "[3]  Bot Like Target's Post":
         await require("./src/.botLike.js");
-        break;
-
-      case "[4]  Delete All Media":
-        await require("./src/.deleteAllMedia.js");
         break;
       default:
         console.log('\nERROR:\n[?] Aw, Snap! \n[!] Something went wrong while displaying this program!\n[!] Please try again!');
