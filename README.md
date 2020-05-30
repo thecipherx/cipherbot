@@ -18,18 +18,17 @@ $ node index.js
 ----
 
 ### Features
-
-  [#]  Info & Contact
-  [#]  Update Cipherbot
-  [#]  NewsFeed Auto Liker
-  [#]  Hashtag Post Bot Liker
-  [#]  Target's Post Auto Liker
-  [#]  Like & Comment Hashtag Posts
-  [#]  Like & Comment  Target's Posts
-  [#]  Follow&Like&Comment Hashtag Posts
-  [#]  Follow&Like&Comment  Target's Posts
-  [#]  UnFollow Who Not Follow You Back
-  [#]  UnFollow All Your Followings
+Info & Contact
+Update Cipherbot
+NewsFeed Auto Liker
+Hashtag Post Bot Liker
+Target's Post Auto Liker
+Like & Comment Hashtag Posts
+Like & Comment  Target's Posts
+Follow&Like&Comment Hashtag Posts
+Follow&Like&Comment  Target's Posts
+UnFollow Who Not Follow You Back
+UnFollow All Your Followings
 
 ----
 
@@ -38,7 +37,7 @@ $ node index.js
 * T34M 4N0NYM0U5 MEMBER CipherX (KHALID SHA)
 * WE ARE LEGION | WE DONOT FORGET | WE DONOT FORGIVE 
 
-##Don't Copy This Code without giving me the Credits, Bitch
+## Don't Copy This Code without giving me the Credits, Bitch
 
 ## Muthumanikale, Code Copy Adikkalle Machanmare...
 ## Ithente 2 Month HardWork Kashtappadanu...
