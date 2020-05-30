@@ -64,7 +64,8 @@ CIPHER BOT THE #1 INSTA AUTOMATION TOOL
    {bold.cyan ========================================================}    
    {bold.red IMPORTANT NOTE : 
              ***THE DELAY YOU HAVE TO SET IN TOOL IS IN MILLISECONDS
-                SET DELAY ONLY IN MILLISECONDS}
+                SET DELAY ONLY IN MILLISECONDS
+             ***Edit commentText.txt file and replace with your comments in it}
 }  `);
 
 
