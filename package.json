@@ -1,7 +1,7 @@
 {
   "name": "cipherbot",
-  "version": "0.2.2",
-  "description": "Node.JS Instagram Tools",
+  "version": "3.2",
+  "description": "CipherBot",
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.5.4",
