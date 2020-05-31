@@ -28,7 +28,6 @@ const questionTools = [
     choices:
       [
         "[#]  Info & Contact",
-        "[#]  Update Cipherbot",
         "[#]  NewsFeed Auto Liker",
         "[#]  Hashtag Post Bot Liker",
         "[#]  Target's Post Auto Liker",
@@ -53,11 +52,7 @@ const main = async () => {
       case "[#]  Info & Contact":
         await require("./src/.info.js");
         break;
-      
-      case "[#]  Update Cipherbot":
-        await require("./src/.update.js");
-        break;
-          
+        
       case "[#]  NewsFeed Auto Liker":
         await require("./src/.botLikeNF.js");
         break;
