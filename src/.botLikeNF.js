@@ -19,6 +19,7 @@ const User = [
     {
         type:'password',
         name:'password',
+	mask: '*',
         message:'[>] Insert Password:',
         mask:'*',
 	validate: function(value){
