@@ -23,7 +23,7 @@ Update Cipherbot*
 NewsFeed Auto Liker*
 Hashtag Post Bot Liker*
 Target's Post Auto Liker*
-Like & Comment Hashtag Posts*
+Like & Comment Hashtag Posts* (UNDER TESTING)
 Like & Comment  Target's Posts*
 Follow&Like&Comment Hashtag Posts*
 Follow&Like&Comment  Target's Posts*
