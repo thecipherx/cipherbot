@@ -47,7 +47,7 @@ const User = [{
     {
         type: 'input',
         name: 'ittyw',
-        message: 'Input Total of Target You Want (ITTYW):',
+        message: 'Input Total of Target You Want :',
         validate: function(value) {
             value = value.match(/[0-9]/);
             if (value) return true;
@@ -187,7 +187,7 @@ const Excute = async function(User, TargetUsername, Text, Sleep, ittyw) {
     try {
         console.log(chalk `{yellow \n? Try to Login . . .}`)
         const doLogin = await Login(User);
-        console.log(chalk `{green ✓ Login Succsess. }{yellow ? Try To Get ID & Followers Target . . .}`)
+        console.log(chalk `{green ✓ Login Success. }{yellow ? Try To Get ID & Followers Target . . .}`)
         const getTarget = await Target(TargetUsername);
         console.log(chalk `{green ✓ UserID: ${TargetUsername}[${getTarget.id}] ϟ Total Followers: [${getTarget.followers}]}`)
         const getFollowers = await Followers(doLogin.session, doLogin.account.id)
