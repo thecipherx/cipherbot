@@ -47,7 +47,7 @@ const question = [{
     {
         type: 'input',
         name: 'ittyw',
-        message: 'Input Total of Target You Want (ITTYW):',
+        message: 'Input Total of Target You Want:',
         validate: function(value) {
             value = value.match(/[0-9]/);
             if (value) return true;
@@ -126,9 +126,9 @@ const doAction = async (session, params, text) => {
         doComment(session, params.id, text)
     ];
     var [Follow, Like, Comment] = await Promise.all(task);
-    Follow = Follow ? chalk `{bold.green SUKSES}` : chalk `{bold.red GAGAL}`;
-    Comment = Comment ? chalk `{bold.green SUKSES}` : chalk `{bold.red GAGAL}`;
-    Like = Like ? chalk `{bold.green SUKSES}` : chalk `{bold.red GAGAL}`;
+    Follow = Follow ? chalk `{bold.green Success}` : chalk `{bold.red Fail}`;
+    Comment = Comment ? chalk `{bold.green Success}` : chalk `{bold.red Fail}`;
+    Like = Like ? chalk `{bold.green Success}` : chalk `{bold.red Fail}`;
     return chalk `[Follow: ${Follow}] [Like: ${Like}] [Comment: ${Comment} ({cyan ${text}})]`;
 }
 
