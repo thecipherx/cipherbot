@@ -36,9 +36,3 @@ UnFollow All Your Followings*
 
 * T34M 4N0NYM0U5 MEMBER CipherX (KHALID SHA)
 * WE ARE LEGION | WE DONOT FORGET | WE DONOT FORGIVE 
-
-## Don't Copy This Code without giving me the Credits, Bitch
-
-## Muthumanikale, Code Copy Adikkalle Machanmare...
-## Ithente 2 Month HardWork Kashtappadanu...
-## I cracked about 5 tools to make this ultimate one
