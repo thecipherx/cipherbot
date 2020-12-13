@@ -36,3 +36,4 @@ UnFollow All Your Followings*
 ### Thanks to
 
 * CNA MEMBER DARK PHOENIX 
+* CCOCOT The Dev of Core Scripts
