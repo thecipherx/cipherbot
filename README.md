@@ -3,7 +3,8 @@
 The ULTIMATE TOOL FOR INSTAGRAM. "CIPHER BOT"
  I WILL UPDATE THIS TOOL OCCASSIONALLY
 
-I'm the author of this Tool , I'm CipherX
+CipherBot is My Creation  | CipherX
+Base Codes & Scripts From | CCOCOT
 ----
 
 Installation
@@ -34,5 +35,4 @@ UnFollow All Your Followings*
 
 ### Thanks to
 
-* CNA MEMBER DARK PHOENIX | CYBERJEEVI
-* WE ARE LEGION | WE DONOT FORGET | WE DONOT FORGIVE 
+* CNA MEMBER DARK PHOENIX 
